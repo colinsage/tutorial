@@ -1,0 +1,16 @@
+npm-debug.log
+/target
+web/conf/
+target/
+node_modules/
+.classpath
+.project
+.settings
+*/src/main/java/META-INF/
+*.log
+*.swp
+*.diff
+*.patch
+.DS_Store
+.idea
+*.iml
