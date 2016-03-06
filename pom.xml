@@ -38,7 +38,12 @@
             <version>19.0</version>
         </dependency>
 
-        <!-- -->
+        <!-- solr -->
+        <dependency>
+            <groupId>org.apache.solr</groupId>
+            <artifactId>solr-core</artifactId>
+            <version>3.4.0</version>
+        </dependency>
 
     </dependencies>
 
